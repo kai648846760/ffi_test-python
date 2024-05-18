@@ -91,17 +91,11 @@ def find_all_matches(self, subject):
     brew install pyenv
     ```
 ### 3. 下载源码
-    ```
     git clone https://github.com/kai648846760/ffi_test-python-.git
-    ```
 ### 4. 授权脚本 & 执行
-    ```
     chmod +x receive.sh && ./receive.sh
-    ```
 ### 5. 执行python脚本
-    ```
     python3 ./main.py
-    ```
 
 ## 执行结果
 python
