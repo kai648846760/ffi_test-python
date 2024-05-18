@@ -51,7 +51,7 @@ def find_all_matches(self, subject):
     return matches
 ```
 ## 使用方式
-### 1. 安装pcre2(推荐方式)
+### 1. 安装pcre2
 - 在 Ubuntu 或 Debian 上安装 PCRE2
     可以使用以下命令在 Ubuntu 或 Debian 系统上安装 PCRE2：
     ```bash
